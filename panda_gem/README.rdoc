@@ -1,32 +1,32 @@
-= Panda Gem
+= panda_gem
 
-* http://pandastream.com
+* FIX (url)
 
 == DESCRIPTION:
 
+FIX (describe your package)
 
 == FEATURES/PROBLEMS:
 
-
+* FIX (list of features or problems)
 
 == SYNOPSIS:
 
-
+  FIX (code sample of usage)
 
 == REQUIREMENTS:
 
-
+* FIX (list of requirements)
 
 == INSTALL:
 
-gem sources -a http://gems.github.com (you only have to do this once)
-sudo gem install dctanner-panda_gem
+* FIX (sudo gem install, anything else)
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2009 FIX
+Copyright (c) 2009 FIXME full name
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
